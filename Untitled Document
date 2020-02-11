@@ -1,0 +1,147 @@
+<html>
+<head>
+	<title>title here</title>
+</head>
+<body bgcolor="grey" style="background-image:url('https://lh3.googleusercontent.com/proxy/rgnqxhdUkHSttxdlZVk6jfmRaYhzGvNioS-kC1x1htA68G0HWjnsM3-X0hwmrL71dXzae_FRpeH_RIoIR2Tbo1HZ5Ga7F1F2Yq2tnaQ3W1PQi663ez-6_YHMWYJiktY6tf2TXzw7PIzS2nXk05NmeqhPuiZKSiFyp28;');opacity:1;">
+<h1 style="color:blue">heading main</h1>
+<a name="start"></a>
+<h2>heading 2</h2>
+<h3 title="message when cursor moves">
+<p align="right">document right<br/></p>
+<p color="red">colored <br/></p>
+<p>paragraph</p>
+<strike>cancel</strike>
+<pre> fuction test(str){
+alert(str)
+}
+</pre>
+<b>bold text here</b><!--bold text-->
+<i>itlaic</i>
+<p>paragraph <u>underlined here</u></p>
+<div align="right">
+<p> fuction test(str){
+alert(str)
+}
+</p>
+<p>text without monospace</p>
+<tt>text with monospace</tt></br>
+</div>
+<div>
+<sup>superscript</sup>
+<sub>subscrpti</sub>
+<p> paragraph writtern here<big> bigger tag here</big><small> smaller text here</small><p>
+<a href="http://www.google.com">google</a href>
+</div>
+<p>example here <span style="color:green">span tag</span></p>
+<bdo dir="rtl"> text direc</bdo>
+<ul>
+<Li>food1</li>
+<li>food2</li>
+<li>food3</li>
+</ul>
+<ol type="i">
+<Li>iteam1</li>
+<li>iteam2</li>
+<li>iteam3</li>
+</ol>
+<ol type="i" start="999"> 
+<Li>iteam1</li>
+<li>iteam2</li>
+<li>iteam3</li>
+</ol>
+<dl>
+	<dt>Science</dt>
+	<dd>Gives information</dd>
+	<dt>Maths</dt>
+	<dd>its another subject</dd>
+</dl>
+<ul type="square">
+<li>thing1</li>
+<ol type="i" start="3">
+<li>sub thing1</li>
+<li>sub thing2</li>
+<li>sub hting3</li>
+</ol>
+<li>thing2</li>
+</ul>
+<table border=10 width=0.5 cellpadding=25 cellspacing=5 align="center">
+<caption align="bottom"><b>sample caption</b></caption>
+<tr>
+<th>columb 1 header</th>
+<th>column 2 header</th>
+<th>column 3 header</th>
+</tr>
+<tr>
+<td>Row1,col1</td>
+<td>Row1,col2</td>
+<td>Row1,col3</td>
+</tr>
+<tr>
+<td>Row2,col1</td>
+<td>Row2,col2</td>
+<td>Row2,col3</td>
+</tr>
+<tr>
+<td>Row3,col1</td>
+<td>Row3,col2</td>
+<td>Row3,col3</td>
+</tr>
+</table>
+<a href="#start">click to go up</a>
+<center>
+<p> sample image</p>
+<img src="/home/sem6b10/Downloads/index.jpeg"/ alt="not avalibele" border=11>
+</center>
+<table border="1" bgcolor="red">
+<tr>
+<th>col1</th>
+<th>col2</th>
+<th>col3</th>
+<th>col4</th>
+</tr>
+<tr>
+<td rowspan="2">col1 row1</td>
+<td>col2r1</td>
+<td>col3r1</td>
+<td rowspan="3">col4merge</td>
+</tr>
+<tr>
+<td>col2r2</td>
+<td>col3r3</td>
+</tr>
+<tr>
+<td colspan="3">row3colmerge</td>
+<tr>
+</table>
+<a href="mailto: 123@gmail.com">send email</a></br>
+<font size="1">font sample</font><br/>
+<font size="2">font sample</font><br/>
+<font size="3">font sample</font><br/>
+<font size="4">font sample</font><br/>
+<font size="5">font sample</font><br/>
+<font size="6">font sample</font><br/>
+<font size="7">font sample</font><br/>
+<marquee direction="up">exampole of marquee</marquee>
+<p style="font-family:verdana;"> another paragraph written here &pound;</p>
+<p style="font-family:courier;">&apos; another paragraph written here&apos;</p>
+<p style="font-size=300%;"> 'another paragraph written here'</p>
+<h1 style="background-color:DodgerBlue;">hi h1</h1>
+<p style="background-color:rgb(255,254,21)">hello</p>
+<p style="background-color:#ff6437;">hello</p>
+<p style="background-color:hsl(9,10%,33%);">hello</p>
+<a href="https://twitter.com/"><img src="https://cdn5.vectorstock.com/i/1000x1000/13/84/twitter-icon-vector-20891384.jpg"width="50" style="left:400" /></a>
+<p><img src="https://www.freepngimg.com/download/temp/5-2-twitter-transparent.jpeg" style="float:left;width:77px;height:42px;">image will be left</p>
+<img src="images.jpeg" alt="workspace" usemap="#workmap">
+<map name="workmap">
+<area shape="rect" coords="23,18,147,111" href="https://www.amazon.com/slp/black-mouse/ewudjxowcv998vb">
+<area shape="rect" coords="211,203,118,79" href="https://www.image-map.net/">
+</map>
+<div style="background-color:black;color:white;padding:20px;">
+<h2>london</h2>
+<p>london is a city of engloand</p>
+</div>
+<iframe src="https://stackoverflow.com/questions/12605908/change-background-image-opacity"></iframe>
+<iframe src="https://www.image-map.net/" height="200" width="300 " style="border:8px solid red" name="iframe_a"></iframe></br>
+<p><a href="https://presidencyuniversity.in/" target="iframe_a">load differnt page in iframe</a></p>
+</body>
+</html>

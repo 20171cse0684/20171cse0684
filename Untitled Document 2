@@ -1,0 +1,43 @@
+<html>
+
+<body bgcolor='grey'>
+	<title> My resume</title>
+<p><img src="https://ih0.redbubble.net/image.424783205.2701/flat,1000x1000,075,f.jpg" style="float:Right;width:250px;height:220px;"><h1><b>Random Guy</b></h1></br></br></br><a href="mailto: 123@gmail.com">randomguy@gmail.com</a></br></p>
+<font size="5"><u><b>201712254</b></u></font><br/><br/><br/><br/><hr/>
+
+<dl><dt><font size="6"><b>CV Highlights</b></br></font><dt></br>
+<dd><ul><li>some description 1</li>
+<li>good in cricket</li>
+<li>good in maths</li>
+<li>good in spoerts</li>
+</ul></dd></dl>
+</br>
+<h2>Professional experice</h2><br/>
+<ul>
+<li><b>Infosys private ltd</b></li>
+<p>     job Responsibilties</p>
+<ul><li>very resposibke</li>
+<li>very good at doing job</li>
+<li>repaete those two again</li>
+</ul></ul>
+<h2>Education Qualifications</h2><br/>
+<center>
+<table border='1' width="100" cellspacing="5" cellpadding="10">
+<tr>
+<th>qualifications</th>
+<th>bord</th>
+<th>percentages</th>
+</tr>
+<tr>
+<td>Phd</td>
+<td>harward university</td>
+<td>99.99</td>
+</tr>
+<tr>
+<td>degree</td>
+<td>harward pre-university</td>
+<td>88.88</td>
+</tr>
+</table>
+</body>
+</html>

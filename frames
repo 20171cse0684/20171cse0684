@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>frames example</title>
+</head>
+<frameset cols="10%,80%,10%">
+<frame name="top" src=""/>
+<frame name="main" src="file:///home/sem6b10/Desktop/Untitled%20Document%202"/>
+<frame name="bottom" src="">
+<noframes>
+<body>doesnt support frames</body>
+</frameset>
+</html>
