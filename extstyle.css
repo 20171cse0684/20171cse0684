@@ -1,5 +1,12 @@
 body{background-image:url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");background-repeat:no-repeat;
 background-size:4096px 2304px;background-attachment:fixed;}
 h1{color:maroon;margin-left:40px;}
-p{color:blue}
-
+p.special{color:red;font-style:italic;font-family:"serif";font-size:40px}
+p.normal{color:blue;font-size:20px;font-weight:bolder;text-indent:1cm;word-spacing:50px;letter-spacing:5px;direction:rtl;text-shadow:10px 20px 8px cyan;}
+p.anotherone{text-align:center;text-decoration:underline;text-transform:capitalize}
+img:hover{border:10px solid blue;height:100px;opacity:0.4}
+#id1{text-align:right;color:red}
+p.due{border-style:solid;border-width:5px 1px 21px 200px;border-color:red green blue yellow}
+p.multibord{border-top-style:dotted;border-bottom-style:solid;}
+p.align{margin:25px 18px 1px 221px}
+div.newauto{width:300px margin:auto;border:1px solid red}
